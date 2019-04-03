@@ -1,0 +1,173 @@
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+  
+section {
+  width: 100%;
+  display: table;
+  max-width: none;
+  height: 100vh;
+}
+
+hr {
+  max-width: 50px;
+  border-width: 3px;
+  border-color: rgb(15, 19, 48);
+}
+
+i {
+  position: relative;
+  line-height: 1;
+  transition: all .2s ease-in-out;
+}
+  
+#Home .container{
+  width: 90%;
+  margin: 0px !important;
+}
+
+#Home h1{
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+#Home h2{
+  font-size: 2.68rem;
+}
+
+#Home h3{
+  font-size: 1.8rem;
+}
+
+#Home {
+  position: relative;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  color: white;
+  background: url("../img/bg-pattern.png"), #1c45b9;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #1c45b9, #0ed6fa);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #1c45b9, #0ed6fa);
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Home h1 {
+  color: #fff;
+  font-size: 4rem;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.333;
+  font-weight: bold;
+}
+  
+#Servicos .text-hover:hover, .text-hover:focus {
+  color: #9AC0CD;
+  cursor: pointer;
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
+}
+
+#Servicos h2, h5{
+  color: rgb(15, 19, 48);
+}
+
+#Servicos img{
+  text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  height: 17rem;
+}
+
+#Servicos img:hover{
+  opacity: 0.5;
+}
+
+#Contato h4 {
+  text-align: center;
+}
+
+#Contato {
+  background: #1c45b9;  
+}
+  
+.container-full {
+  height: 100vh;
+}
+
+#Home .row{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.contact {
+  background: #0ed6fa;
+}
+
+#Servicos{
+  height: 46rem;
+}
+
+#ajuste1{
+  height: 100vh;
+}
+
+#Home img{
+  height: 30rem;
+}
+  
+@media screen and (min-width: 200px) {
+  #Home {font-size: 1em;}
+  #Home h1 {font-size: 2rem;}
+  #Servicos .text-hover {margin-bottom: 1rem !important;}
+  #Servicos .text-hover, #Servicos h5 {font-size: 1rem;}
+  #Contato h4 {margin-top: 2rem !important;}
+}
+
+@media screen and (min-width: 500px) {
+  #Home {font-size: 1.5em;}
+  #Home h1 {font-size: 3rem;}
+}
+
+@media screen and (max-width: 1217px) {
+  #Home h1{font-size: 2.5rem;}
+  #Home h2{font-size: 2.2rem;}
+  #Home h3{font-size: 1.48rem;}
+  #Home img{height: 27rem;}
+}
+
+@media screen and (max-width: 600px) {
+  #Home img{height: 23rem;}
+}
+
+@media screen and (max-width: 523px) {
+  #Home h1{font-size: 2rem;}
+  #Home h2{font-size: 1.7rem;}
+  #Home h3{font-size: 1.18rem;}
+  #Home img{height: 20rem;}
+}
+
+@media screen and (max-width: 900px) and (max-height: 600px) {
+  #Home h1{font-size: 2rem;}
+  #Home h2{font-size: 1.7rem;}
+  #Home h3{font-size: 1.18rem;}
+  #Home img{visibility: hidden;}
+}
+
+@media screen and (min-width: 1000px) {
+  #Servicos h5 {font-size: 1.8rem !important;}
+}
+
+@media screen and (max-width: 1000px){
+  #Servicos img{height: 12rem;}
+}
+
+@media screen and (max-width: 768px){
+  #Servicos {height: 60rem;}
+}

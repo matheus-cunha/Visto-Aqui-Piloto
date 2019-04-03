@@ -1,0 +1,121 @@
+nav a{
+    color: #fff !important;
+    font-weight: 500 !important;
+    text-decoration: none;
+    font-family:  'Segoe UI';
+}
+
+.dropdown-menu a:hover{
+    color:rgb(15, 19, 48) !important;
+}
+
+.dropdown-menu, .navbar-collapse {
+    /* width: 10rem; */
+    background-color: rgb(15, 19, 48);
+    color: #fff;
+}
+
+.dropdown-menu span{
+    color: #fff !important;
+    font-weight: 500 !important;
+    text-decoration: none;
+    font-family:  'Segoe UI';
+    font-size: 1rem;
+    opacity: 0.3;
+}
+
+.navbar{
+    height: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    z-index: 2000;
+    background-color: rgb(15, 19, 48);
+    width: 100%;
+    color: #fff;
+}
+
+@media screen and (max-width: 575px) {
+    nav a{
+        padding-left: 2rem !important;
+    }
+
+    .dropdown-menu{
+        padding-left: 1rem;
+        box-shadow: none;
+        border-color: rgb(15, 19, 48);
+    }
+}
+
+.disabled{
+    opacity: 0.5;
+}
+
+footer{
+    height: 20vh;
+    background-color:rgb(15, 19, 48) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column !important;
+    justify-content: center;
+}
+
+.col-flex{
+    align-items: flex-start;
+}
+
+.footer-container{
+    width: 90%;
+}
+
+.footer-text{
+    flex-direction: column;
+    border-color: #fff;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.footer-in-topico{
+    font-weight: bold;
+    font-size: 1.0rem;
+}
+
+.footer-sb-topico{
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-left: 0.7rem;
+}
+.footer-icon{
+    color: #fff;
+    height: 1rem;
+    width: 1rem;
+}
+
+#info{
+    color: #fff;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 2rem;
+    font-size: 0.7rem;
+}
+
+a {
+    color: #fff;
+}
+
+@media screen and (max-width: 575px) {
+    footer{ 
+        height: 20vh;
+    }
+
+    .footer-icon{
+        margin: 0px;
+        width: 0em;
+        height: 0em;
+        padding-right: 0em;
+    }    
+}
