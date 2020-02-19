@@ -32,12 +32,11 @@ Este projeto tem como premissa didática de apresentar de forma clara a distribu
 
 ## Ferramentas utilizadas.
 
+| Ferramenta    | Utilização                        |
+|---------------|-----------------------------------|
 | HTML          | Criação do código base da página. |
-|---------------|-----------------------------------|
 | CSS3          | Edição de estilos das páginas.    |
-|---------------|-----------------------------------|
 | Bootstrap     | Design Responsivo.                |
-|---------------|-----------------------------------|
 | Photoshop CS6 | Layout e edições de imagem.       |
 
 ---
