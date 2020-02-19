@@ -1,7 +1,7 @@
 ![CSS Version](https://img.shields.io/badge/CSS-Vesion_3-BLUE.svg)
 ![HTML](https://img.shields.io/badge/HTML-Vesion_5-ORANGE.svg)
 
-<img src="./img/Readme/banner-logo.png" alt="Main Logo" height="160"></a>
+<img src="./img/Readme/banner-logo.jpg" alt="Main Logo" height="160"></img>
 
 # Visto Aqui.
 
@@ -11,7 +11,7 @@
 <div style="width: 100%;">
 <img src="./img/Readme/landing-animation.gif" alt="Animation" width="1500">
 
-<img src="./img/Readme/responsive-layout.png" alt="Responsive" width="1500">
+<img src="./img/Readme/responsive-layout.jpg" alt="Responsive" width="1500">
 </div>
 ---
 
