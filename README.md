@@ -34,12 +34,12 @@ O intuito da página é captação e conversão de público alvo a partir de uma
 
 ## Ferramentas utilizadas.
 
-| Ferramenta    | Utilização                        |
-|---------------|-----------------------------------|
-| HTML          | Criação do código base da página. |
-| CSS3          | Edição de estilos das páginas.    |
-| Bootstrap     | Design Responsivo.                |
-| Photoshop CS6 | Layout e edições de imagem.       |
+| Ferramenta    | Utilização                            |
+|---------------|---------------------------------------|
+| HTML          | Criação do código base da página.     |
+| CSS3          | Edição de estilos das páginas.        |
+| Bootstrap     | Design Responsivo.                    |
+| Photoshop CS6 | Layout e edições de imagem.           |
 
 ---
 
