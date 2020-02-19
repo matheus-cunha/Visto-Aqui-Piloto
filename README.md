@@ -1,7 +1,7 @@
 ![CSS Version](https://img.shields.io/badge/CSS-Vesion_3-BLUE.svg)
 ![HTML](https://img.shields.io/badge/HTML-Vesion_5-ORANGE.svg)
 
-<img src="./img/Readme/Banner-logo.jpg" alt="Main Logo" height="160"></img>
+<img src="./img/Readme/Banner-logo.jpg" alt="Main Logo" height="260"></img>
 
 # Visto Aqui.
 
