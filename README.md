@@ -9,9 +9,9 @@
 
 ---
 <div style="width: 100%;">
-<img src="./img/landing-animation.gif" alt="Animation" width="1500">
+<img src="./img/Readme/landing-animation.gif" alt="Animation" width="1500">
 
-<img src="./img/responsive-layout.png" alt="Responsive" width="1500">
+<img src="./img/Readme/responsive-layout.png" alt="Responsive" width="1500">
 </div>
 ---
 
@@ -20,7 +20,6 @@
 Este projeto tem como premissa didática de apresentar de forma clara a distribuição de informações e estruturas em um projeto de desenvolvimento web. O mesmo tem código aberto para casos de opiniões, dicas e/ou feedback da comunidade.
 
 O intuito da página é captação e conversão de público alvo a partir de uma Landing Page responsiva, que possua informações suficientes para atrair a atenção do usuário e providenciar uma boa experiência de navegação.
-
 
 ---
 
@@ -46,7 +45,7 @@ O intuito da página é captação e conversão de público alvo a partir de uma
 
 ## Contribua!
 
-Este projeto possui codigo aberto para casos de opiniões, dicas ou feedback. Para isso, siga os seguintes passos:
+Este projeto possui código aberto para casos de opiniões, dicas ou feedback. Para isso, siga os seguintes passos:
 
 ### Passo 1
 
