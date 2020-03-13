@@ -7,6 +7,7 @@
 
 > Projeto piloto criado utilizando uma versão do Bootstrap 4.2.1.
 
+> Prévia hospedada em https://visto-aqui-piloto.herokuapp.com/
 ---
 <div style="width: 100%;">
 <img src="./img/Readme/landing-animation.gif" alt="Animation" width="1500">
