@@ -1,7 +1,7 @@
 ![CSS Version](https://img.shields.io/badge/CSS-Vesion_3-BLUE.svg)
 ![HTML](https://img.shields.io/badge/HTML-Vesion_5-ORANGE.svg)
 
-<img src="./img/Readme/Banner-logo.jpg" alt="Main Logo" height="260"></img>
+<img src="./img/Readme/Banner-logo.jpg" alt="Main Logo" height="300"></img>
 
 # Visto Aqui.
 
@@ -10,9 +10,8 @@
 > Prévia hospedada em https://visto-aqui-piloto.herokuapp.com/
 ---
 <div style="width: 100%;">
-<img src="./img/Readme/landing-animation.gif" alt="Animation" width="1500">
-
-<img src="./img/Readme/responsive-layout.jpg" alt="Responsive" width="1500">
+<img src="./img/Readme/landing-animation.gif" alt="Animation" style="width: 100%;">
+<img src="./img/Readme/responsive-layout.jpg" alt="Responsive" style="width: 100%;">
 </div>
 ---
 
